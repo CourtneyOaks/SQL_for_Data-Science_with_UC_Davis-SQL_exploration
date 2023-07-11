@@ -1,4 +1,4 @@
--- Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
+-- Data Scientist Role: Profiling and Analyzing the Yelp Dataset with SQL (part 2)
 -- Part 1: Yelp Dataset Profiling and Understanding
 
 -- 1. Profile the data by finding the total number of records for each of the tables below:
