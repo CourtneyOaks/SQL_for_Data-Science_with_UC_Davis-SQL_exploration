@@ -1,5 +1,5 @@
--- Data Scientist Role: Profiling and Analyzing the Yelp Dataset with SQL
--- Part 1: Yelp Dataset Profiling and Understanding
+Data Scientist Role: Profiling and Analyzing the Yelp Dataset with SQL
+Part 1: Yelp Dataset Profiling and Understanding
 
 -- 1. Profile the data by finding the total number of records for each of the tables below:
 i. Attribute table = 10000
